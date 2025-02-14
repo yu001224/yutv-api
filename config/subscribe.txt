@@ -15,3 +15,13 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+
+#新增
+http://175.178.251.183:6689/live.txt
+https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-HAUST.m3u
+https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-SXYD.m3u
+https://raw.githubusercontent.com/zhumeng11/IPTV/main/IPTV.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/index.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
+https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u
