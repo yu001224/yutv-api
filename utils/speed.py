@@ -332,6 +332,17 @@ def get_speed_result(key: str) -> TestResult:
         return {'speed': 0, 'delay': -1, 'resolution': 0}
 
 
+def get_ipv6_default_result() -> TestResult:
+    """
+    Get the default result of the ipv6
+    """
+    return {
+        'speed': float("inf"),
+        'delay': default_ipv6_delay,
+        'resolution': default_ipv6_resolution
+    }
+
+
 async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_filter_resolution,
                     timeout=speed_test_timeout, callback=None) -> TestResult:
     """
@@ -346,9 +357,7 @@ async def get_speed(data, headers=None, ipv6_proxy=None, filter_resolution=open_
             result = get_avg_result(cache[cache_key])
         else:
             if data['ipv_type'] == "ipv6" and ipv6_proxy:
-                result['speed'] = float("inf")
-                result['delay'] = default_ipv6_delay
-                result['resolution'] = default_ipv6_resolution
+                result.update(get_ipv6_default_result())
             elif constants.rt_url_pattern.match(url) is not None:
                 start_time = time()
                 if not result['resolution'] and filter_resolution:
@@ -380,7 +389,7 @@ def sort_result_key(item: TestResult | ChannelData) -> float:
 def get_sort_result(results, name=None, supply=open_supply, filter_speed=open_filter_speed,
                     min_speed=min_speed_value,
                     filter_resolution=open_filter_resolution, min_resolution=min_resolution_value,
-                    max_resolution=max_resolution_value, logger=None) -> list[ChannelTestResult]:
+                    max_resolution=max_resolution_value, ipv6_support=True, logger=None) -> list[ChannelTestResult]:
     """
     get the sort result
     """
@@ -389,6 +398,8 @@ def get_sort_result(results, name=None, supply=open_supply, filter_speed=open_fi
         if result["origin"] in ["whitelist", "live", "hls"]:
             total_result.append(result)
             continue
+        if not ipv6_support and result["ipv_type"] == "ipv6":
+            result.update(get_ipv6_default_result())
         result_speed, result_delay, resolution = result["speed"] or 0, result["delay"] or -1, result["resolution"]
         try:
             if logger:
