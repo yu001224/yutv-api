@@ -1,17 +1,14 @@
 🕘️更新时间,#genre#
-2025-05-02 19:07:36,http://dsj.motem.top:8880/bptv/10000100000000050000000003873465.m3u8$订阅源
+2025-05-03 06:17:00,http://dsj.motem.top:8880/bptv/10000100000000050000000003873465.m3u8$订阅源
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
 湖北卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873465.m3u8$订阅源
 东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1746162006-718c0d1373f7409eada27f8dbe2094f2-0-b3064557b1865cbf12be599d750986fb$订阅源
-三沙卫视,https://livessws.hnntv.cn/live/ssws_01hnntv.m3u8?_upt=18df2caf1744908993$订阅源
-西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws$订阅源
 
 ☘️广东频道,#genre#
 广东珠江,http://php.jdshipin.com/PLTV/iptv.php?id=gdzj$订阅源
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty$订阅源
 
 🌊港·澳·台,#genre#
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f$订阅源
