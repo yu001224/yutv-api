@@ -1,27 +1,11 @@
 🕘️更新时间,#genre#
-2025-08-19 06:12:53,http://223.109.75.19:8000/057754/index.m3u8$订阅源
+2025-08-19 18:12:56,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
 
 📺央视频道,#genre#
-CCTV-1,http://223.109.75.19:8000/057754/index.m3u8$订阅源
-CCTV-2,http://223.109.75.19:8000/061465/index.m3u8$订阅源
-CCTV-3,http://223.109.75.19:8000/830965/index.m3u8$订阅源
-CCTV-4,http://223.109.75.19:8000/143097/index.m3u8$订阅源
-CCTV-5,http://223.109.75.19:8000/930480/index.m3u8$订阅源
-CCTV-5+,http://223.109.75.19:8000/470540/index.m3u8$订阅源
-CCTV-6,http://223.109.75.19:8000/520737/index.m3u8$订阅源
-CCTV-7,http://223.109.75.19:8000/649185/index.m3u8$订阅源
-CCTV-8,http://223.109.75.19:8000/235836/index.m3u8$订阅源
-CCTV-9,http://223.109.75.19:8000/827648/index.m3u8$订阅源
-CCTV-10,http://223.109.75.19:8000/502378/index.m3u8$订阅源
-CCTV-11,http://223.109.75.19:8000/554982/index.m3u8$订阅源
-CCTV-13,http://223.109.75.19:8000/593087/index.m3u8$订阅源
-CCTV-14,http://223.109.75.19:8000/271607/index.m3u8$订阅源
-CCTV-17,http://223.109.75.19:8000/299438/index.m3u8$订阅源
 
 📡卫视频道,#genre#
-东南卫视,http://125.42.151.98:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
+广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
 
 🌊港·澳·台,#genre#
@@ -30,13 +14,13 @@ CCTV-17,http://223.109.75.19:8000/299438/index.m3u8$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40$订阅源
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40$订阅源
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40$订阅源
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40$订阅源
-Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40$订阅源
+Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40$订阅源
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40$订阅源
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40$订阅源
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40$订阅源
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$订阅源
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$订阅源
