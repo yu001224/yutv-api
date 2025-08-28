@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-28 18:13:28,https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1$订阅源
+2025-08-29 06:12:07,https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1$订阅源
 
 📺央视频道,#genre#
 CCTV-16,https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1$订阅源
@@ -8,5 +8,7 @@ CETV2,https://migu.188766.xyz/?migutoken=98daa3ba4c81372351b73d9075023b9b&id=CET
 CETV4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CETV4&type=yy$订阅源
 
 📡卫视频道,#genre#
+
+☘️广东频道,#genre#
 
 🌊港·澳·台,#genre#
