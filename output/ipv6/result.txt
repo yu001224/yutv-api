@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-08-28 06:11:25,http://free.cnlive.club/channel/c15fcc8/index.m3u8?q=1756084903216$订阅源
+2025-08-28 18:13:28,https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1$订阅源
 
 📺央视频道,#genre#
-CCTV-16,http://free.cnlive.club/channel/c15fcc8/index.m3u8?q=1756084903216$订阅源
 CCTV-16,https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1$订阅源
 CETV1,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy$订阅源
 CETV2,https://migu.188766.xyz/?migutoken=98daa3ba4c81372351b73d9075023b9b&id=CETV2&type=yy$订阅源
