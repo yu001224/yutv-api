@@ -1,27 +1,25 @@
 🕘️更新时间,#genre#
-2025-09-23 06:13:04,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
+2025-09-23 18:16:05,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
 
 📺央视频道,#genre#
 CCTV-2,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
 CCTV-3,http://php.cqshushu.ggff.net/jzb.php?id=cctv3&公众号【医工学习日志】
-CCTV-4,http://ygbh.site/php/bfgd.php?id=063
 CCTV-5,http://php.cqshushu.ggff.net/jzb.php?id=cctv5&公众号【医工学习日志】
-CCTV-5+,http://ygbh.site/php/bfgd.php?id=246
 CCTV-6,http://php.cqshushu.ggff.net/jzb.php?id=cctv6&公众号【医工学习日志】
 CCTV-7,http://php.cqshushu.ggff.net/jzb.php?id=cctv7&公众号【医工学习日志】
-CCTV-7,http://ygbh.site/php/bfgd.php?id=127
 CCTV-8,http://php.cqshushu.ggff.net/jzb.php?id=cctv8&公众号【医工学习日志】
 CCTV-9,http://php.cqshushu.ggff.net/jzb.php?id=cctv9&公众号【医工学习日志】
-CCTV-9,http://ygbh.site/php/bfgd.php?id=128
-CCTV-10,http://ygbh.site/php/bfgd.php?id=129
+CCTV-10,http://110.177.144.22:9003/hls/11/index.m3u8
 CCTV-11,http://php.cqshushu.ggff.net/jzb.php?id=cctv11&公众号【医工学习日志】
-CCTV-11,http://ygbh.site/php/bfgd.php?id=130
+CCTV-11,http://116.9.204.242:9901/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV-12,http://111.227.196.164:9901/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://116.9.204.242:9901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV-14,http://php.cqshushu.ggff.net/jzb.php?id=cctv14&公众号【医工学习日志】
-CCTV-14,http://ygbh.site/php/bfgd.php?id=132
-CCTV-15,http://ygbh.site/php/bfgd.php?id=133
+CCTV-15,http://116.9.204.242:9901/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
-CETV-1,http://221.10.226.195:5000/rtp/239.0.0.51:5140
 CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
+CETV-1,http://221.10.226.195:5000/rtp/239.0.0.51:5140
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-1,http://112.109.206.106:9999/rtp/239.255.40.201:8208
 CETV-1,http://180.154.61.39:4022/rtp/239.45.1.125:5140
@@ -32,25 +30,27 @@ CETV-4,http://112.109.206.106:9999/rtp/239.255.40.31:8208
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=36
-河南卫视,http://lxajh.top/tv/hn.php?id=hnws
+湖北卫视,http://218.17.33.178:53290/tsfile/live/0132_1.m3u8?key=txiptv
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-青海卫视,http://zqh2333.top:2222/rtp/239.93.24.192:5140
+河南卫视,http://lxajh.top/tv/hn.php?id=hnws
+山东卫视,http://58.58.111.222:808/hls/57/index.m3u8?key=txiptv
+四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8?key=txiptv
 
 ☘️广东频道,#genre#
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=48f6c06c32931ed1c2376b21ce91640c&txTime=18d1f31b604
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 翡翠台,http://8.138.7.223/tv/hot.php?id=68
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文,http://zqh2333.top:2222/rtp/239.93.24.9:2192
-凤凰资讯,http://zqh2333.top:2222/rtp/239.93.24.4:2191
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
+凤凰资讯,http://zqh2333.top:2222/rtp/239.93.24.4:2191
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
-凤凰香港,http://bziyunshao.synology.me:8890/bysid/85
 凤凰香港,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
+凤凰香港,http://bziyunshao.synology.me:8890/bysid/85
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
