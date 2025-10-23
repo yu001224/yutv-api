@@ -1,32 +1,13 @@
 🕘️更新时间,#genre#
-2025-10-23 18:15:02,http://1.31.14.70:54321/hls/13/index.m3u8
+2025-10-24 06:13:18,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 
 📺央视频道,#genre#
-CCTV-4,http://1.31.14.70:54321/hls/13/index.m3u8
-CCTV-10,http://1.31.14.70:54321/hls/11/index.m3u8
-CCTV-14,http://61.184.46.85:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
-CETV-4,http://live1.hrtn.net/live/zgjy4_1000.m3u8?auth_key=1761355085-2257f0fc0c536efec9d5e684e4dea767-0-931767c17cbfd1d075f45baaf2788d7a
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
-甘肃卫视,http://1.31.14.70:54321/hls/45/index.m3u8
-广西卫视,http://1.31.14.70:54321/hls/36/index.m3u8
-贵州卫视,http://1.31.14.70:54321/hls/33/index.m3u8
-河北卫视,http://1.31.14.70:54321/hls/18/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://1.31.14.70:54321/hls/44/index.m3u8
-江西卫视,http://1.31.14.70:54321/hls/42/index.m3u8
-宁夏卫视,http://1.31.14.70:54321/hls/30/index.m3u8
-青海卫视,http://1.31.14.70:54321/hls/43/index.m3u8
-陕西卫视,http://1.31.14.70:54321/hls/46/index.m3u8
-深圳卫视,http://1.31.14.70:54321/hls/40/index.m3u8
-西藏卫视,http://1.31.14.70:54321/hls/52/index.m3u8
-新疆卫视,http://1.31.14.70:54321/hls/31/index.m3u8
-云南卫视,http://1.31.14.70:54321/hls/37/index.m3u8
 
 ☘️广东频道,#genre#
 
