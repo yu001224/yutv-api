@@ -1,12 +1,17 @@
 🕘️更新时间,#genre#
-2025-10-27 06:13:36,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2025-10-27 18:17:57,http://sh.lnott.top:880/dx01.m3u8
 
 📺央视频道,#genre#
+CCTV-1,http://sh.lnott.top:880/dx01.m3u8
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 黑龙江卫视,http://113.106.171.234:8899/rtp/239.20.0.91:3036
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+内蒙古卫视,http://113.106.171.234:8899/rtp/239.20.0.153:2104
+三沙卫视,http://113.106.171.234:8899/rtp/239.20.0.52:3192
+天津卫视,http://113.106.171.234:8899/rtp/239.20.0.89:3044
+新疆卫视,http://sh.lnott.top:880/dx55.m3u8
 
 ☘️广东频道,#genre#
 
@@ -24,5 +29,4 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
-Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
