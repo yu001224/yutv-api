@@ -1,25 +1,15 @@
 🕘️更新时间,#genre#
-2025-11-02 18:12:12,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+2025-11-03 06:11:14,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 
 📺央视频道,#genre#
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
-CCTV-2,http://sh.lnott.top:880/dx02.m3u8
 CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
-CCTV-12,http://sh.lnott.top:880/dx12.m3u8
-CCTV-14,http://sh.lnott.top:880/dx14.m3u8
-CCTV-14,http://111.221.137.155:44330/tsfile/live/0014_1.m3u8?key=txiptv
 CETV-1,https://httop.top/hrtn-cetv1
 CETV-1,http://116.179.149.157:6000/rtp/226.0.2.181:9360
-CETV-4,http://116.179.149.157:6000/rtp/226.0.2.70:8472
 
 📡卫视频道,#genre#
-湖南卫视,http://sh.lnott.top:880/dx31.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-黑龙江卫视,http://113.106.171.234:8899/rtp/239.20.0.91:3036
-安徽卫视,http://sh.lnott.top:880/dx34.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://111.221.137.155:44330/tsfile/live/0123_1.m3u8?key=txiptv
-江西卫视,http://sh.lnott.top:880/dx43.m3u8
 
 ☘️广东频道,#genre#
 
