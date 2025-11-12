@@ -1,45 +1,17 @@
 🕘️更新时间,#genre#
-2025-11-12 18:15:42,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+2025-11-13 06:13:10,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 
 📺央视频道,#genre#
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
-CCTV-1,http://112.6.239.227:8207/hls/1/index.m3u8
-CCTV-2,http://112.6.239.227:8207/hls/2/index.m3u8
-CCTV-3,http://112.6.239.227:8207/hls/3/index.m3u8
-CCTV-4,http://112.6.239.227:8207/hls/4/index.m3u8
-CCTV-5,http://112.6.239.227:8207/hls/5/index.m3u8
-CCTV-5+,http://112.6.239.227:8207/hls/6/index.m3u8
-CCTV-6,http://112.6.239.227:8207/hls/7/index.m3u8
-CCTV-7,http://112.6.239.227:8207/hls/8/index.m3u8
-CCTV-7,http://111.221.137.155:44330/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV-8,http://112.6.239.227:8207/hls/9/index.m3u8
-CCTV-10,http://112.6.239.227:8207/hls/11/index.m3u8
-CCTV-10,http://111.221.137.155:44330/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV-11,http://112.6.239.227:8207/hls/12/index.m3u8
-CCTV-12,http://112.6.239.227:8207/hls/13/index.m3u8
 CCTV-13,http://112.6.239.227:8207/hls/14/index.m3u8
 CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 
 📡卫视频道,#genre#
-广东卫视,http://112.6.239.227:8207/hls/22/index.m3u8
-浙江卫视,http://112.6.239.227:8207/hls/16/index.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://112.6.239.227:8207/hls/25/index.m3u8
-安徽卫视,http://112.6.239.227:8207/hls/19/index.m3u8
-东南卫视,http://112.6.239.227:8207/hls/23/index.m3u8
-广西卫视,http://112.6.239.227:8207/hls/32/index.m3u8
-海南卫视,http://112.6.239.227:8207/hls/24/index.m3u8
-河北卫视,http://112.6.239.227:8207/hls/28/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://112.6.239.227:8207/hls/31/index.m3u8
-吉林卫视,http://112.6.239.227:8207/hls/30/index.m3u8
-江西卫视,http://112.6.239.227:8207/hls/29/index.m3u8
-山东卫视,http://112.6.239.227:8207/hls/15/index.m3u8
-山西卫视,http://112.6.239.227:8207/hls/26/index.m3u8
-四川卫视,http://112.6.239.227:8207/hls/27/index.m3u8
-天津卫视,http://112.6.239.227:8207/hls/18/index.m3u8
+深圳卫视,http://112.6.239.227:8207/hls/21/index.m3u8
 
 ☘️广东频道,#genre#
 
