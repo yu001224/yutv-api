@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-15 18:12:00,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
+2025-11-16 06:09:09,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 
 📺央视频道,#genre#
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
@@ -9,7 +9,6 @@ CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq
 CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq
 CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
 CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=gq
-CCTV-10,http://61.184.46.85:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=gq
 CCTV-13,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=gq
 CCTV-17,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17&q=gq
@@ -19,7 +18,6 @@ CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-广西卫视,http://sh.lnott.top:880/dx41.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 
 ☘️广东频道,#genre#
