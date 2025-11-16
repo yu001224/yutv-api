@@ -1,14 +1,13 @@
 🕘️更新时间,#genre#
-2025-11-16 18:11:34,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
+2025-11-17 06:11:01,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 
 📺央视频道,#genre#
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq
 CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq
-CCTV-4,http://120.46.223.160/PHP/MG.php?id=608807416
+CCTV-4,http://120.46.223.160/PHP/MG.php?id=608807419
 CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq
-CCTV-7,http://120.46.223.160/PHP/MG.php?id=673168121
 CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
 CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=gq
 CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=gq
