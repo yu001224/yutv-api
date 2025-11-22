@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2025-11-22 18:12:15,http://183.184.47.145:8001/rtp/226.0.2.181:9360
+2025-11-23 06:11:02,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 
 📺央视频道,#genre#
 CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 
 📡卫视频道,#genre#
-浙江卫视,http://60.16.0.216:5757/hls/22/index.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
