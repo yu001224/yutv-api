@@ -1,19 +1,15 @@
 🕘️更新时间,#genre#
-2025-12-04 18:15:49,http://144.255.32.94:8288/rtp/239.21.2.7:5002
+2025-12-05 06:11:21,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 
 📺央视频道,#genre#
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
-CETV-1,http://116.179.130.16:6001/rtp/226.0.2.181:9360
 CETV-1,http://221.205.180.120:8004/rtp/226.0.2.181:9360
+CETV-1,http://116.179.130.16:6001/rtp/226.0.2.181:9360
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/.m3u8
-黑龙江卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226498/.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-江西卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226570/.m3u8
-天津卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/.m3u8
 
 ☘️广东频道,#genre#
 
