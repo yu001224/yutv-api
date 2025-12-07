@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-07 06:12:21,http://144.255.32.94:8288/rtp/239.21.2.7:5002
+2025-12-07 18:11:42,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 
 📺央视频道,#genre#
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
@@ -24,4 +24,3 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
-靖天资讯,http://210.61.15.55:50007/4gtv-4gtv065/index.m3u8?proxy=true
