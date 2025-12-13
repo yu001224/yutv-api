@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-13 18:12:39,http://144.255.32.94:8288/rtp/239.21.2.7:5002
+2025-12-14 06:11:23,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 
 📺央视频道,#genre#
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
@@ -9,7 +9,6 @@ CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-青海卫视,http://115.48.161.66:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️广东频道,#genre#
 
