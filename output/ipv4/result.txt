@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-29 06:13:15,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
+2025-12-29 18:16:08,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
 
 📺央视频道,#genre#
 CCTV-7,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
@@ -11,19 +11,24 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 
 📡卫视频道,#genre#
+浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
 湖南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+安徽卫视,http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8
 重庆卫视,http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD&auth=666858
+东南卫视,http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
 海南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 辽宁卫视,http://yp.qqqtv.top/1/api.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86HD&auth=666858
 深圳卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86HD&auth=666858
+天津卫视,http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8
 西藏卫视,http://yp.qqqtv.top/1/api.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&auth=666858
 
 ☘️广东频道,#genre#
 
 🌊港·澳·台,#genre#
+翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
