@@ -1,18 +1,24 @@
 🕘️更新时间,#genre#
-2026-01-02 06:13:33,http://171.83.103.119:9999/rtp/239.69.1.110:10298
+2026-01-02 18:15:26,http://39.152.103.17:8089/tsfile/live/1009_1.m3u8
 
 📺央视频道,#genre#
+CCTV-10,http://39.152.103.17:8089/tsfile/live/1009_1.m3u8
+CCTV-11,http://sun135790.x3322.net:9901/tsfile/live/16018_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
-CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://btjg.net:809/hls/43/index.m3u8
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+湖北卫视,http://111.221.137.234:44330/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+江苏卫视,http://27.41.245.32:801/hls/42/index.m3u8
+山东卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://tvlist.top/jd/index.php?id=szws&qt=183.224.122.114:8014
+天津卫视,http://39.152.103.17:8089/tsfile/live/1035_1.m3u8
 
 ☘️广东频道,#genre#
 
