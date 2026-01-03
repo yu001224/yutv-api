@@ -1,11 +1,8 @@
 🕘️更新时间,#genre#
-2026-01-03 18:13:35,http://btjg.net:809/hls/4/index.m3u8
+2026-01-04 06:12:21,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8
 
 📺央视频道,#genre#
-CCTV-4,http://btjg.net:809/hls/4/index.m3u8
 CCTV-6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8
-CCTV-9,https://v4-7b232e9a7ece13f936b4e19cb1594132.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5ce653679128614e5f2a5f9fe7008c67
-CCTV-15,http://36.36.200.198:44330/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
@@ -13,15 +10,11 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-黑龙江卫视,http://36.36.200.198:44330/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 广西卫视,http://tvlist.top/jd/index.php?id=gxws&qt=183.224.122.114:8014
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-山西卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://tvlist.top/jd/index.php?id=szws&qt=183.224.122.114:8014
-深圳卫视,http://222.214.208.34:59901/tsfile/live/0126_1.m3u8
 
 ☘️广东频道,#genre#
-大湾区卫视,http://rihou.cc:555/tv/[AtI]广东湾区
 
 🌊港·澳·台,#genre#
 翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
